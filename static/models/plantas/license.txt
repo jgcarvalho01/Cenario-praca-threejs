@@ -1,0 +1,11 @@
+Model Information:
+* title:	Props - Plantas
+* source:	https://sketchfab.com/3d-models/props-plantas-f64465cd9f00419c87add2d8294a2733
+* author:	Kurnazart (https://sketchfab.com/Kurnazart)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Props - Plantas" (https://sketchfab.com/3d-models/props-plantas-f64465cd9f00419c87add2d8294a2733) by Kurnazart (https://sketchfab.com/Kurnazart) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Poste
+* source:	https://sketchfab.com/3d-models/poste-423e824c1ea94ef4ba99c2c40d2d6cc1
+* author:	designerenan (https://sketchfab.com/designerenan)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Poste" (https://sketchfab.com/3d-models/poste-423e824c1ea94ef4ba99c2c40d2d6cc1) by designerenan (https://sketchfab.com/designerenan) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
